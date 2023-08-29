@@ -1,16 +1,11 @@
-# flutter_capture_the_flag
+# Capture the Flag (Flutter Version)
 
-A new Flutter project.
+You are allowed to use all the tools available to you for this capture-the-flag. No restrictions.
 
-## Getting Started
+## Flag 1
 
-This project is a starting point for a Flutter application.
+Check out the commit whose comment is "Add a flag". You can find a flag in the `main.dart` of this commit.
 
-A few resources to get you started if this is your first Flutter project:
+## Flag 2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the Flutter the project at the commit whose comment is "Secret emulator message".
