@@ -17,3 +17,5 @@ Run the Flutter the project at the commit whose comment is "Secret emulator mess
 Switch to the `find-flag` branch. Run the code in the emulator.
 
 ## Flag 4
+
+Merge the `find-flag` branch to `main`. Resolve the ensuing conflict in favor of `main`. Run the resolved code in the emulator. Following what the app says on the emulator.
