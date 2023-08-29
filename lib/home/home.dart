@@ -5,9 +5,17 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
       body: Center(
-        child: Text("Here is another one. FLAG flutter FLAG"),
+        child: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: ElevatedButton(
+            onPressed: () => {},
+            child: const Text(
+              "Implement the onPressed argument for this button to go to the secret_screen.dart",
+            ),
+          ),
+        ),
       ),
     );
   }
