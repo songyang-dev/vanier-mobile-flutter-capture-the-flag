@@ -10,7 +10,7 @@ Check out the commit whose comment is "Add a flag". You can find a flag in the `
 
 ## Flag 2
 
-Run the Flutter the project at the commit whose comment is "Secret emulator message".
+Run the Flutter project at the commit whose comment is "Secret emulator message".
 
 ## Flag 3
 
